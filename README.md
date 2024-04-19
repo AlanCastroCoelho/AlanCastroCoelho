@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://portfolioalancoelho-a164e.web.app/portfolio" target="_blank">Alan Castro Coelho</a></h1>
+<img src="https://github.com/AlanCastroCoelho/AlanCastroCoelho/blob/main/Proyects-sticker.webp" align="right" style="width:200px;"/>
+<p align="left">I'm a Fullstack Web Developer and freelance Graphic Designer.<br> My passion at work is focused on design and aesthetics, especially in the frontend realm.<br> This passion stems from my experience as a freelance graphic designer before delving into web development.<br> I believe that developing attractive, functional, and aesthetically pleasing user interfaces makes the difference between a common website and an exceptional one.</p>
 
-<!--
-**AlanCastroCoelho/AlanCastroCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
@@ -53,3 +44,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href="https://www.linkedin.com/in/alan-castro-coelho/" target:"_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://portfolioalancoelho-a164e.web.app/portfolio" target:"_blank"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logoColor=white"></a>
