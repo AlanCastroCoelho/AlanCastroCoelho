@@ -44,7 +44,3 @@
 <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="https://www.linkedin.com/in/alan-castro-coelho/" target:"_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://alancastrocoelho.com/" target:"_blank"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logoColor=white"></a>
